@@ -1,2 +1,2 @@
-# [WIP] Generic Photovoltaic Simulated Homologation PT_BR
-Simulated homologation on a photovoltaic residential project
+# [WIP] Generic Photovoltaic Simulated Interconnection Application PT_BR
+Simulated Interconnection Application on a photovoltaic residential project
