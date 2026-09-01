@@ -8,6 +8,8 @@ Simulated Interconnection Application on a photovoltaic residential project.
 - **Technical design report** — full technical specification for utility interconnection
 - **Single-line diagram** — protection and equipment layout
 
+*Known error: my single-line diagram has a risked text. It is because my program bugged and i didn't want to restart the project. Frequent saves and eventually getting to know how it ocurred will make other diagrams made by me not come with a risked text.
+
 ## Checklist - CPFL Energia São Carlos:
 
 **Checklist de Homologação**
